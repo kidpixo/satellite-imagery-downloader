@@ -1,0 +1,3 @@
+title: Rsync Crypted Backup/Duplication
+description: Developer-friendly toolkit for bootable, encrypted full-system backups on Linux using rsync, LUKS, and LVM. Automates disk detection, mounting, and disaster recovery.
+remote_theme: https://github.com/JV-conseil/jekyll-theme-read-the-docs
